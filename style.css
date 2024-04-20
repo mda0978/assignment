@@ -53,3 +53,24 @@ body {
     text-align: left;
     margin-left: 2%;
 }
+
+.develop {
+
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 120px;
+
+}
+
+.develop img {
+    width: 60%;
+    margin-left: 10%;
+}
+
+.developer {
+    margin-bottom: 0%;
+}
+
+h2 {
+    margin-right: 90%;
+}
